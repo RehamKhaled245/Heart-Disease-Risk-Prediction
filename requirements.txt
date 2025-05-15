@@ -1,0 +1,7 @@
+pandas 
+numpy 
+seaborn 
+sentencepiece
+joblib
+streamlit
+scikit-learn
